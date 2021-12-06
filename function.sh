@@ -7,3 +7,6 @@ Function()
 	read num2
 	sum=$((num1*num2))
 }
+
+Function 
+echo "SUM = $sum"
