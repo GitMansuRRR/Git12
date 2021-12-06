@@ -1,1 +1,5 @@
 Git — таратылған нұсқаны басқару жүйесі . Жобаны Linux ядросының дамуын басқару үшін Линус Торвальдс жасаған , оның бірінші нұсқасы 2005 жылдың 7 сәуірінде шығарылған .
+
+Git пайдаланатын жобаларға Linux ядросы , Swift , Android , Drupal , Cairo , GNU Core Utilities , Mesa , Wine , Chromium , Compiz Fusion , FlightGear , jQuery , PHP , NASM , MediaWiki , DokuWiki , Qt және Linux таралымдары кіреді .
+
+
